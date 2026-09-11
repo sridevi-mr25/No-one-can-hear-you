@@ -1,0 +1,7 @@
+DIMENSION = 40
+
+CELL_OPEN = 0
+CELL_OBSTACLE = 1
+CELL_FIRE = 2
+
+DIRECTIONS = [(1, 0), (-1, 0), (0, 1), (0, -1)]
